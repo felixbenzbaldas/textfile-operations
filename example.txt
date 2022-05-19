@@ -1,0 +1,4 @@
+Test
+testABC [4,1/2,5] sdfdsf
+[62,4/2,4]---[45/2] sf
+     [asf/sdf]
