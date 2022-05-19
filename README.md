@@ -35,3 +35,5 @@ testABC [6,6/2,5] sdfdsf
 ```
 
 Summarized: This programs adds the second number to the first number in square brackets.
+
+With Eclipse I have created the jar file `updateTextfile.jar`. On windows platform you can run it with `run.bat`.
